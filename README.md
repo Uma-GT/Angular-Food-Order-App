@@ -1,4 +1,6 @@
-# Cloudkitechenweb
+# Cloud Kitechen Web - Angular 13 based Online Food Order Application. 
+
+Used Bootstrap 5 for Responsive design
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
