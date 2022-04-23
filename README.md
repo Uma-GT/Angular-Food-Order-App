@@ -2,7 +2,7 @@
 
 Used Bootstrap 5 for Responsive design
 
-![Alt text](relative/path/to/app.jpeg?raw=true "Application")
+![Alt text](https://github.com/Uma-GT/Angular-Food-Order-App/blob/main/app.jpeg?raw=true "Application")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
