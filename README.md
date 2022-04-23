@@ -2,6 +2,8 @@
 
 Used Bootstrap 5 for Responsive design
 
+![Alt text](relative/path/to/app.jpg?raw=true "Title")
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
 ## Development server
